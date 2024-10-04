@@ -1,0 +1,2 @@
+# MedicalNamedEntityRecognition
+本项目针对中文电子病例命名实体任务,实现了一个基于Bilstm+CRF的命名实体识别模型
